@@ -7,7 +7,10 @@
     padding-left: 100px;
     padding-right: 100px;
 }
-
+span{
+    color: #FFFFFF;
+    margin-left: 5px;
+}
 nav.header a{
     text-decoration: none;
     color: #FFFFFF;
@@ -15,4 +18,10 @@ nav.header a{
 }
 nav.header a:hover{
     color: orange;
+}
+.text-color{
+    color:white;
+    display: inline;
+    margin-left: 10px;
+    
 }
