@@ -9,3 +9,19 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.pagination{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.pagination-btn{
+
+
+    margin-left: 15px;
+    background-color: #838383;
+}
+.selected{
+    background-color: rgb(255, 106, 106);
+    color: rgb(0, 0, 0);
+    
+}
